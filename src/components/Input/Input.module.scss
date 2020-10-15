@@ -1,0 +1,21 @@
+.root {  
+  padding: 0 1rem 1rem 1rem;
+
+  label, input {
+    display: block;
+    flex: 1;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  label {
+    padding-bottom: 0.5rem;
+  }
+}
+
+.invalid {
+  border: 1px solid red;
+  padding-top: 0.5rem;
+}

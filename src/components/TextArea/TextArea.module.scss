@@ -1,0 +1,13 @@
+.root {  
+  padding: 0 1rem 1rem 1rem;
+
+  label, textarea {
+    display: block;
+    flex: 1;
+  }
+
+  textarea {
+    width: 100%;
+  }
+
+}
